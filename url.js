@@ -1,1 +1,1 @@
-let url = "https://git.heroku.com/vast-dusk-76117.git"
+let url = "https://vast-dusk-76117.herokuapp.com"
